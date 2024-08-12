@@ -1,0 +1,7 @@
+.idea/
+data/*
+run_*_*.sh
+
+# Files are too large to check in
+input/description/*
+input/rag_knowledge/*
